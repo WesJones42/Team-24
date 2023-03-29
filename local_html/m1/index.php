@@ -12,7 +12,7 @@
 <img src="Logo.jpg" alt="LA" style="width:40%">
 <nav>
   <ul>
-    <li>About</ul>
+    <li>About</li>
     <li>Color Gen</li>
   </ul>
 </nav>

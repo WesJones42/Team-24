@@ -7,20 +7,18 @@
 <style>
 </style>
 <script src=""></script>
-<body color: "green">
+<body>
 
-<img src="Logo.jpg" alt="LA" style="width:40%">
-<nav>
-  <ul>
-    <li>About</li>
-    <li>Color Gen</li>
-  </ul>
-</nav>
 
-<div class="">
- <h1>Team 24</h1>
- <p>Hi! Welcome to Team 24!</p>
+       <?php echo Asset::img("Logo.png"); ?>
+
+
+
+<div>
+ 
+ <p>Hi! Welcome to Freaky Four!</p>
  <p>We do things differently around here...</p>
+ <p>At Freaky Four, our goal is to deliver exceptional products/services and create long-term value for our customers, employees, and shareholders. We strive to be a leader in our industry by constantly innovating, improving our processes, and fostering a culture of excellence. Our ultimate aim is to build strong relationships with our customers, exceed their expectations, and contribute to the growth and development of the communities we serve. We dont conform to your standard idea of a company. We took a single look at margins, profits, and HR, and we through those all out the window. Welcome to a 21st century company that is built for the needs of the 21st century consumer!</p>
 </div>
 
 </body>

@@ -38,9 +38,13 @@ nav li a:hover {
 
 }
 
-#Homelogo img{
+p img, p img, p img , p img { /* Sizing for the profile pictures  */
+  height: 300px;
+  margin: 0 auto;
+  display: block;
   text-align: center;
-
+  border-radius: 5px;
+  
 }
 
 h1 {

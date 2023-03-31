@@ -19,7 +19,7 @@
             </div></li>
             <li><a href="Home.php">Home</a></li>
             <li><a href="Bio.php">About Us</a></li>
-            <li><a href="mosaic.php">Mosaic</a></li>
+            <li><a href="generate.php">Mosaic</a></li>
         </ul>
     </nav>
 

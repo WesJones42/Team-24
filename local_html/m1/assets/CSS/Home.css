@@ -3,12 +3,17 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #C83D20; /* traditional green */
+  background-color: #C83D20; 
   border-radius: 10px;
+  text-align: center;
+  
+  
 }
 
 nav li {
   float: left;
+  
+  
 }
 
 
@@ -17,16 +22,18 @@ nav li a {
   display: block;
   color: #26427B; 
   text-align: center;
-  /* padding: 14px 16px; */
   padding-left: 16px;
+  
   padding-right: 16px;
   padding-top: 22px;
   padding-bottom: 14px;
   text-decoration: none;
+  font-family: "Lucida Console", "Courier New", monospace;
+  
 }
 
 nav li a:hover {
-  color:  #F2F2F2;  /* white */
+  color:  #F2F2F2;  
 }
 
 #logo img {
@@ -38,7 +45,7 @@ nav li a:hover {
 
 }
 
-p img, p img, p img , p img { /* Sizing for the profile pictures  */
+p img, p img, p img , p img { 
   height: 300px;
   margin: 0 auto;
   display: block;
@@ -47,25 +54,31 @@ p img, p img, p img , p img { /* Sizing for the profile pictures  */
   
 }
 
+
 h1 {
-  color: #A45D25; /* dark greyish blue */
+  color: #A45D25; 
   text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
   
 }
 
+
 body {
-  background-color: #B6E5E1; /*#fffff0*/
-  font-family: "Aphont", "BebasNeue-Regular", Arial, Helvetica, sans-serif;
+  padding-right: 50px;
+  padding-left: 50px;
+  background-color: #B6E5E1; 
+  font-family: "Lucida Console", "Courier New", monospace;
   text-align: center;
+  
 }
 
 main {
     width: 1000px;
     margin-left:auto;
     margin-right: auto;
-    background-color: #297350; /* traditional green */
-    color: #F2B6A0; /* skin pink */
-    font-family: "Aphont", "BebasNeue-Regular", Arial, Helvetica, sans-serif;
+    background-color: #297350; 
+    color: #F2B6A0; 
+    font-family: "Lucida Console", "Courier New", monospace;
 
     padding-top: 10px;
     padding-bottom: 10px;
@@ -74,8 +87,7 @@ main {
 
     border-radius: 10px;
 
-    margin-bottom: 50px; /*for the footer not to cover content */
-    /*content becomes centered if page is wider than necessary */
+    margin-bottom: 50px; 
 }
 
 footer{
@@ -84,10 +96,12 @@ footer{
   bottom: 0;
   width: 100%;
   
-  height: 50px; /*Needs to match margin-bottom in main */
+  height: 50px; 
   color: #26427B; 
   text-align: center;
+  
   background-color:#C83D20; 
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  font-family: "Lucida Console", "Courier New", monospace;
 }

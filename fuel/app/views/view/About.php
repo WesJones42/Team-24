@@ -21,6 +21,13 @@
         <td><p> <?php echo Asset::img("Mitch.jpg");?></p> </td>
     </div>
 
+    <div id="Aayush" style="padding-bottom: 40px;">
+        <p>
+        I'm Aayush Lamichhane, a senior CS student passionate about creating innovative AI applications to benefit humans. I'm fascinated by AI's potential to solve complex problems and transform various industries. My ultimate goal is to contribute to the development of creative AI applications that can make people's lives easier.
+        </p>
+        <td><p> <?php echo Asset::img("Aayush.jpg");?></p> </td>
+    </div>
+
 </body>
 <footer>
 

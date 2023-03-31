@@ -18,16 +18,12 @@
                 <?php echo Asset::img("Logo.png"); ?>
             </div></li>
             <li><a href="Home.php">Home</a></li>
-            <li><a href="Bio.php">About Us</a></li>
-            <li><a href="generate.php">Mosaic</a></li>
+            <li><a href="About.php">About Us</a></li>
+            <li><a href="colorcoordinates.php">Mosaic</a></li>
         </ul>
     </nav>
 
-    <!--
-    <div id="logo">
-       <?php echo Asset::img("Logo.png"); ?>
-    </div>
-    -->
+    
 
     <header>
        <h1> <?php echo $header; ?>  </h1>

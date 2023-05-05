@@ -71,6 +71,12 @@ body {
   text-align: center;
   
 }
+body div p{
+  padding-right: 15%;
+  padding-left: 15%;
+  width: 70%;
+  text-align: center;
+}
 
 main {
     width: 1000px;
